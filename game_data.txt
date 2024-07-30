@@ -1,0 +1,4 @@
+Entrance Hall,A grand entrance hall with a high ceiling and large chandelier.
+Great Hall,A vast hall filled with long tables and a throne at the end.
+Library,A room lined with shelves of ancient books and scrolls.
+Dungeon,A dark, damp dungeon with cells lining the walls.
